@@ -1,0 +1,37 @@
+{
+  "name": "td4-emu",
+  "version": "1.0.0",
+  "description": "yet another td4 emulator ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV='development' next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "td4",
+    "cpu",
+    "4bit",
+    "emulator",
+    "react",
+    "next.js"
+  ],
+  "author": "zuhiko",
+  "license": "MIT License",
+  "dependencies": {
+    "next": "^14.2.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.1",
+    "@types/react": "18.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss": "^3.4.10",
+    "ts-node": "^1.7.1",
+    "typescript": "^5.9.3"
+  }
+}
