@@ -20,7 +20,7 @@
   "author": "zuhiko",
   "license": "MIT License",
   "dependencies": {
-    "next": "^14.2.7",
+    "next": "^16.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
